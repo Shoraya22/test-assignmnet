@@ -1,4 +1,4 @@
-Following test activities performed to create search workplace application-
+Following task performed to complete assignment-
   1. Testcases- It includes all functional testcases of search workplace functionality.
   2. Bad Requirement document
   3. Estimation of test activities with WBS
